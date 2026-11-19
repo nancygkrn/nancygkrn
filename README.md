@@ -2,7 +2,7 @@
 About me
 # Hi, I'm Nancy 👋
 
-Staff Product Manager learning front-end development. I build small web apps to understand solutions holistically.
+Staff Product Manager learning front-end development. I build small web apps because why not.
 
 ## Projects
 
